@@ -1,2 +1,2 @@
 # mIRC
-mIRC 편의 기능
+제작 환경: windows 10 x64
