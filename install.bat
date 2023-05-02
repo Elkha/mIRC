@@ -2,7 +2,8 @@ chcp 65001
 
 : 설치 방법
 : 1. 폴더 생성한다.
-: 2. 이 스크립트를 bat 파일로 그 폴더에 저장한다.
+: 2. https://raw.githubusercontent.com/Elkha/mIRC/main/install.bat 들어간다.
+: 3. 마우스 우클릭 -> 다른 이름으로 저장 -> 생성했던 폴더에 넣는다.
 : 3. 실행
 : 제작 환경: windows 10 x64
 
