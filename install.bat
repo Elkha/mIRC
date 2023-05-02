@@ -1,6 +1,9 @@
 chcp 65001
 
-: 이 파일을 원하는 경로에 넣으신 후 싱행해주세요.
+: 설치 방법
+: 1. 폴더 생성한다.
+: 2. 이 스크립트를 bat 파일로 그 폴더에 저장한다.
+: 3. 실행
 : 제작 환경: windows 10 x64
 
 curl http://www.nirsoft.net/utils/nircmd-x64.zip --output nircmd-x64.zip
