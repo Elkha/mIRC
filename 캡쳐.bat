@@ -1,9 +1,8 @@
 chcp 65001
 
 : 설치 방법
-: 1. 폴더 생성한다.
-: 2. https://raw.githubusercontent.com/Elkha/mIRC/main/캡쳐.bat 내용을 복사한다.
-: 3. 메모장을 열고 캡쳐.bat 으로 생성했던 폴더에 저장한다. (이름 무관)
+: 1. https://raw.githubusercontent.com/Elkha/mIRC/main/캡쳐.bat 내용을 복사한다.
+: 2. 폴더를 만들고 메모장을 열고 캡쳐.bat 으로 그 폴더에 저장한다. (이름 무관)
 : 4. 실행
 : 제작 환경: windows 10 x64
 
